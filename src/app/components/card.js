@@ -71,7 +71,7 @@ export default function Card() {
       />
     </a>
     <div className="card-body">
-      <h5 className="card-title">FACEBOOK</h5>
+      <h5 className="card-title">Smart Navigator Wheelchair V.3</h5>
       <p className="card-text">
         <strong>ฟังก์ชัน:</strong> รถเข็นไฟฟ้าสำหรับการใช้งานในเมือง รองรับการขับเคลื่อนด้วยพลังงานไฟฟ้า โครงสร้างแข็งแรง คล่องตัวสูง<br />
         <strong>ลักษณะ:</strong> ดีไซน์เรียบหรู ทันสมัย เหมาะกับการใช้งานในชีวิตประจำวัน<br />
